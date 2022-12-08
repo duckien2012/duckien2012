@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @duckien2012
 - 👀 I’m interested in music
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 duckien2012/duckien2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
