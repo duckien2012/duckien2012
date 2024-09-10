@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiên</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duckien2012&label=Profile%20views&color=0e75b6&style=flat" alt="duckien2012" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckien2012" alt="duckien2012" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
