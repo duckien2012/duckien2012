@@ -5,62 +5,50 @@
 
 I graduated in Information Systems from VNU-HCM University of Science and have a strong foundation in data analytics and databases. Through projects in SQL, Python, and Power BI, I developed analytical thinking and clear data storytelling. I am eager to begin my Data Analyst career, solve real business problems, and keep improving through hands-on experience.
 
----
-
-<h1 align="center">Hi 👋, I'm Hoang Duc Kien</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI</h3>
-
----
-
 ## 📊 Featured Projects
 
-### 🛒 [E-commerce Performance & Conversion Analysis](https://github.com/duckien2012/Traffic-Performance-and-Conversion-Analysis-SQL-BigQuery)
+### 🛒 [Traffic Performance & Conversion Analysis](https://github.com/duckien2012/Traffic-Performance-and-Conversion-Analysis-SQL-BigQuery)
 
 **SQL | BigQuery | Google Analytics**
 
-* Analyzed **1M+ e-commerce records** using advanced SQL (CTEs, Window Functions, Joins)
-* Built a **conversion funnel (View → Add to Cart → Purchase)** to identify drop-off points
-* Uncovered key traffic sources driving revenue and user engagement
+* Analyzed **~1M Google Analytics e-commerce records** using advanced SQL (CTEs, Aggregations, Window Functions, Joins, Subqueries) to evaluate traffic performance, bounce rate, and revenue trends
+* Built a **conversion funnel (View → Add to Cart → Purchase)** to identify drop-off points and uncover high-performing traffic sources driving revenue
 
 ---
 
-### 🔁 [Customer Churn Prediction & Segmentation](https://github.com/duckien2012/E-Commerce-Customer-Churn-Prediction-Segmentation)
-
-**Python | Machine Learning | KMeans**
-
-* Performed EDA to identify churn patterns (low engagement, high complaints)
-* Built **ML models** to predict churn behavior
-* Applied **clustering on churned users** to support targeted retention strategies
-
----
-
-### 📈 [Sales Performance & Market Analysis](https://github.com/duckien2012/Global-Superstore-Performance-Analysis-Power-BI)
+### 📈 [Sales Performance & Market Analysis for Global Superstore](https://github.com/duckien2012/Global-Superstore-Performance-Analysis-Power-BI)
 
 **Power BI | DAX | Data Modeling**
 
-* Processed and modeled **50K+ sales records** using Power Query
-* Built an **interactive dashboard** tracking revenue, profit, and return rate
-* Identified high-performing products and loss-making segments
+* Processed and modeled **50K+ global sales records** (Orders, Returns, People) using Power Query, ensuring data consistency and building an optimized data model
+* Designed an **interactive executive dashboard** using DAX to analyze performance, market trends, and product profitability, delivering insights for strategic decision-making
 
 ---
 
-### 🎯 [RFM Customer Segmentation](https://github.com/duckien2012/Retail-Customer-Segmentation-using-RFM-Analysis)
+### 🎯 [Fashion Marketing & Budget Analysis](https://github.com/duckien2012/Fashion-Marketing-Budget-Analysis-Power-BI)
+
+**Power BI | Marketing Analytics**
+
+* Processed and integrated multi-source datasets (Orders, Campaign Spend, SKU-level metrics) to connect **revenue with marketing expenditure**
+* Built a marketing dashboard focusing on **ROAS, CTR, CPC**, identifying high-performing campaigns and providing recommendations to optimize ad spend efficiency
+
+---
+
+### 👥 [Retail Customer Segmentation using RFM Analysis](https://github.com/duckien2012/Retail-Customer-Segmentation-using-RFM-Analysis)
 
 **Python | Pandas**
 
-* Analyzed **500K+ transactions** to compute RFM metrics
-* Segmented customers into actionable groups (high-value, at-risk)
-* Provided insights to improve marketing targeting and retention
+* Analyzed **~541K transactions** to compute RFM metrics and apply quintile-based segmentation
+* Identified **high-value and at-risk customer segments**, supporting targeted marketing strategies and retention efforts
 
 ---
 
-## 🛠️ Skills
+### 🔁 [Customer Churn Prediction & Segmentation in E-commerce](https://github.com/duckien2012/E-Commerce-Customer-Churn-Prediction-Segmentation)
 
-* **Languages:** SQL, Python
-* **Data Analysis:** Pandas, EDA, Data Cleaning
-* **BI Tools:** Power BI (DAX, Power Query)
-* **Techniques:** Funnel Analysis, RFM, Churn Prediction, Clustering
-* **Soft Skills:** Data Storytelling, Problem Solving, Business Thinking
+**Python | Machine Learning | KMeans**
+
+* Conducted EDA to identify churn patterns (low satisfaction, high complaints, reduced engagement), providing actionable retention insights
+* Built supervised **ML models for churn prediction** and applied **KMeans clustering** to segment churned users, enabling targeted campaigns and personalized retention strategies
 
 ---
 
